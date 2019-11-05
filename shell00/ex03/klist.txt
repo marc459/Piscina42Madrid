@@ -1,0 +1,5 @@
+Credentials cache: API:4309
+        Principal: msantos-@42MADRID.COM
+
+  Issued                Expires             Flags    Principal
+Sep  2 16:45:24 2019  Sep  3 02:45:20 2019  FPIA   krbtgt/42MADRID.COM@42MADRID.COM

@@ -1,0 +1,33 @@
+En vim hay que escribir un código siempre antes de cada ejercicio. Se escribe con fn+f1
+
+Compilar y comprobación de errores
+gcc -Wall -Werror -Wextra archivoC.c
+
+gcc -o test00.o main.o ft_putchar.o rush00.o
+compila todos los archivos a uno comunicado llamado test.o
+
+Gcc -c  ->  comics con el mismo nombre del archivo   
+
+gcc -Wall -Wextra -Werror ft_putchar.c main.c && ./a.out -> comillas y ejecutar programa 
+
+Trucos
+.gitignore escribir todos los archivos que no necesitemos subir
+
+
+
+Utilization nominate
+norminette -R CheckForbiddenSourceHeader archivo.c
+
+int	main()
+{
+
+
+}
+
+
+PUNTEROS
+
+P1 = &a -> asignación de dirección de memoria
+Int *p1; -> crecion de puntero
+*p1 = 42; -> modificación de valor de puntero
+

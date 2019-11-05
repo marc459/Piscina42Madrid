@@ -1,0 +1,9 @@
+cmd+d -> abrir nueva terminal
+ctrl+k -> borrar linea atual
+VIM-
+esc -> modo comando
+i -> insertar texto en la posicion actul
+a -> insertar texto en la siguiente posicion
+u -> Deshacer la ultima accion
+w -> guardar 
+q -> salir
